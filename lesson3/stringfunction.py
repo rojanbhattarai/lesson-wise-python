@@ -1,0 +1,14 @@
+name="handsomeman"
+name1="goinghere"
+uppername=name.upper()
+print(len(name))
+print(name.endswith("man"))
+print(name.startswith("hand"))
+print(name.capitalize())
+print(uppername)
+uppername1=name1.upper()
+print(len(name1))
+print(name1.capitalize())
+print(name1.endswith("re"))
+print(name1.startswith("ab"))
+print(uppername1)
