@@ -257,6 +257,91 @@ Factorial
 Fibonacci series
 
 Tree traversal
+📁 File I/O (Input / Output)
+
+File I/O allows a program to store data permanently in files instead of losing it when the program ends.
+
+Key Concepts:
+
+File: A collection of data stored on disk.
+
+File Modes:
+
+r – read
+
+w – write (overwrites)
+
+a – append
+
+Steps in File Handling:
+
+Open a file
+
+Read/Write data
+
+Close the file
+
+Importance:
+
+Used for storing student records, reports, logs, etc.
+
+Makes programs more practical and real-world based.
+
+✍️ Chapter 9 – Practice Set (File I/O)
+
+This section focuses on hands-on problems, such as:
+
+Writing data to a file
+
+Reading data from a file
+
+Appending new records
+
+File-based programs like student info, library system, etc.
+
+👉 Purpose:
+To strengthen understanding of file operations through coding practice.
+
+🧱 Chapter 10 – Object Oriented Programming (OOP)
+
+OOP is a programming approach based on objects and classes.
+
+Core Concepts:
+
+Class – Blueprint of an object
+
+Object – Instance of a class
+
+Encapsulation – Wrapping data and methods together
+
+Inheritance – One class acquiring properties of another
+
+Polymorphism – One function, many forms
+
+Abstraction – Showing only essential details
+
+Benefits:
+
+Code reusability
+
+Better organization
+
+Easier maintenance
+
+📝 Chapter 10 – Practice Set (OOP)
+
+Includes practical questions like:
+
+Creating classes and objects
+
+Using constructors
+
+Implementing inheritance
+
+Small OOP-based programs (student, employee, bank system)
+
+👉 Purpose:
+To help students apply OOP concepts in real programs.
 
 🎯 Learning Outcomes
 
